@@ -11,7 +11,10 @@ _Contained in this org are all of the repos for the RecruitSync platform._
 [https://github.com/RecruitSync/recruitsync-backend](https://github.com/RecruitSync/recruitsync-web)
 
 #### 📲 Mobile Repo
-_[coming soon]_
+[https://github.com/RecruitSync/recruitsync-mobile](https://github.com/RecruitSync/recruitsync-mobile)
+
+#### 📦 Types Package Repo
+[https://github.com/RecruitSync/recruitsync-types](https://github.com/RecruitSync/recruitsync-types)
 
 #### 📆 Scheduler API (messaging queue microservice)
 _[coming soon]_
