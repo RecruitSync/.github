@@ -8,7 +8,7 @@ _Contained in this org are all of the repos for the RecruitSync platform._
 [https://github.com/RecruitSync/recruitsync-web](https://github.com/RecruitSync/recruitsync-web)
 
 #### 💻 Backend Repo
-[https://github.com/RecruitSync/recruitsync-backend](https://github.com/RecruitSync/recruitsync-web)
+[https://github.com/RecruitSync/recruitsync-backend](https://github.com/RecruitSync/recruitsync-backend)
 
 #### 📲 Mobile Repo
 [https://github.com/RecruitSync/recruitsync-mobile](https://github.com/RecruitSync/recruitsync-mobile)
