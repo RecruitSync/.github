@@ -18,3 +18,6 @@ _Contained in this org are all of the repos for the RecruitSync platform._
 
 #### 📦 Types Package Repo
 [https://github.com/RecruitSync/recruitsync-types](https://github.com/RecruitSync/recruitsync-types)
+
+#### 🤖 AI Microservice Repo
+[https://github.com/RecruitSync/recruitsync-ai](https://github.com/RecruitSync/recruitsync-ai)
