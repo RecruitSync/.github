@@ -2,22 +2,7 @@
 
 ## Welcome to RecruitSync Dev!
 
-_Contained in this org are all of the repos for the RecruitSync platform._
+_Contained in this org are all of the repos for the RecruitSync platform. We recently moved to a monorepo, thus all repos are contained within the new monorepos. Old repos are archived within this organization._
 
-#### 🌐 Web Repo
-[https://github.com/RecruitSync/recruitsync-web](https://github.com/RecruitSync/recruitsync-web)
-
-#### 💻 Backend Repo
-[https://github.com/RecruitSync/recruitsync-backend](https://github.com/RecruitSync/recruitsync-backend)
-
-#### 📲 Mobile Repo
-[https://github.com/RecruitSync/recruitsync-mobile](https://github.com/RecruitSync/recruitsync-mobile)
-
-#### 🏟️ Teams Microfrontend Repo
-[https://github.com/RecruitSync/recruitsync-teams](https://github.com/RecruitSync/recruitsync-teams)
-
-#### 📦 Types Package Repo
-[https://github.com/RecruitSync/recruitsync-types](https://github.com/RecruitSync/recruitsync-types)
-
-#### 🤖 AI Microservice Repo
-[https://github.com/RecruitSync/recruitsync-ai](https://github.com/RecruitSync/recruitsync-ai)
+#### 🌐 Monorepo
+[https://github.com/RecruitSync/recruitsync-web](https://github.com/RecruitSync/recruitsync)
